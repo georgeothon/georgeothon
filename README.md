@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm George Othon</h1>
-<p align="center">I am a data scientist working with credit risk. I am in my last year of an undergraduate degree in applied and computational mathematics with a specialization in economic statistics (econometrics).</p>
+<p align="center">I am a data scientist working with credit risk. I am in my final year of a bachelor's degree in applied and computational mathematics, with specialization in economic statistics (econometrics).</p>
 
 <br>
 
-- 🏦 I’m currently working on **Santander Bank**
+- 🏦 I’m currently working at **Santander Bank**
 
-- 🌱 I’m currently learning **neural networks and graphs**
+- 🌱 I’m currently learning **neural networks and machine learning with graphs**
 
-- 📕 I am finishing my degree in **Applied and Computational Mathematics** at the University of São Paulo
+- 📕 Bachelor's degree in **Applied and Computational Mathematics** at the University of São Paulo
 
 - 📘 I have a specialization in **econometrics**
 
